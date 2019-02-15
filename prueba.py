@@ -1,4 +1,4 @@
-import os
+﻿import os
 
 # Programa principal del repositorio
 # Añade tu nombre con un print(), guarda los cambios haciendo
@@ -6,5 +6,6 @@ import os
 # y luego sube tu commit usando git push -u origin
 
 print("Juan Antonio")
+print("Daniel")
 
 os.system("pause")
