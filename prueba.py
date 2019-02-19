@@ -6,7 +6,7 @@ import os
 # y luego sube tu commit usando git push -u origin
 
 print("Juan Antonio")
-print("Daniel")
+print("Daniel de nuevo")
 print("Noelia")
 print("Gloria")
 print("Rafa")
