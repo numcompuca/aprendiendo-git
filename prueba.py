@@ -6,11 +6,12 @@ import os
 # y luego sube tu commit usando git push -u origin
 
 print("Juan Antonio")
+print("Daniel de nuevo")
 print((lambda x: 2*x)(1))
-print("Daniel")
 print("Noelia Ortega")
 print("Gloria")
 print("Rafa")
 print("Alba")
+print("Alba otra vez")
 
 os.system("pause")
