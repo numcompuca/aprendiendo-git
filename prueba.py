@@ -13,6 +13,6 @@ print("GloriaAlmozara")
 print("Rafa")
 print("Alba")
 print("Alba otra vez")
-
+print("cosas nuevas")
 
 os.system("pause")
