@@ -8,10 +8,15 @@ import os
 print("Juan Antonio")
 print("Daniel de nuevo")
 print((lambda x: 2*x)(1))
+print("Daniel")
 print("Noelia")
 print("Gloria")
+print("Rafa otra vez")
+print("Noelia Ortega")
+print("GloriaAlmozara")
 print("Rafa")
 print("Alba")
-print("Alba otra vez")
+print("Alba otra vez, cambio mi línea")
+
 
 os.system("pause")
