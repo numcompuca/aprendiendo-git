@@ -7,6 +7,7 @@ import os
 
 print("Juan Antonio")
 print("Daniel de nuevo")
+print((lambda x: 2*x)(1))
 print("Noelia")
 print("Gloria")
 print("Rafa")
