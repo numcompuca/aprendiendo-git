@@ -9,9 +9,10 @@ print("Juan Antonio")
 print("Daniel de nuevo")
 print((lambda x: 2*x)(1))
 print("Noelia Ortega")
-print("Gloria")
+print("GloriaAlmozara")
 print("Rafa")
 print("Alba")
 print("Alba otra vez")
+
 
 os.system("pause")
